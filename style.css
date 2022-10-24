@@ -1,0 +1,19 @@
+#a1{
+    border-radius:6px;
+    background-color:rgb(96, 131, 96);
+    font-size: x-large;
+    color: white;
+    border: 2px solid black;
+    height: 60px;
+    width: 60px;
+    border-radius: 15px;
+
+
+}
+#a1:hover{
+    background-color:  rgb(64, 61, 66);
+}
+#cal{
+    background-color: rgb(219, 219, 219);
+    border-radius: 15px;
+}
